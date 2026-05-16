@@ -1,2 +1,2 @@
 # First-Repository
-Always Start New Cheme!!!
+Always Start New Cheme!!!.
